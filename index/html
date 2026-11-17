@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Моя особиста сторінка</title>
+</head>
+
+<body style="background-color: white; color: black; font-family: Arial;">
+
+    <h1 align="center">Моя особиста сторінка</h1>
+
+    <h2 align="center">Ласкаво прошу на мій сайт!</h2>
+
+    <hr>
+
+    <h2 align="center">1. Про мене</h2>
+
+    <p style="font-family: Monotype Corsiva; font-size: 24px; color: #444444;">
+        <b>Привіт!</b> Мене звати Влад.
+        Я навчаюся у коледжі та люблю дізнаватися
+        щось нове і цікаве. У вільний час я люблю
+        спати.
+    </p>
+
+
+    <hr>
+
+    <h2 align="center">2. Мої улюблені предмети</h2>
+
+    <p>
+        Моїми улюбленими предметами в коледжі є:
+    </p>
+
+    <ul type="circle">
+        <li>Інформатика </li>
+
+        <li>Історія </li>
+
+        <li>Українська мова </li>
+    </ul>
+
+
+
+
+    <h2 align="center">3. Мої контактні дані</h2>
+
+ 
+
+    <ul type="circle">
+        <li>Ім'я/Прізвище: Влад Зозуля</li>
+        <li>Місто: Луцьк </li>
+        <li>Електронна пошта: vzozula43@gmail.com</li>
+    </ul>
+
+   
+
+    <hr>
+
+    <h2 align="center">5. Фотографія</h2>
+
+    <p align="center">
+        <img
+        src="https://upload.wikimedia.org/wikipedia/commons/4/42/Potemkin_Stairs%2C_Odessa.jpg"
+        width="300"
+        alt="Фотографія міста Одеса">
+    </p>
+
+    <p align="center">
+        <a href="https://commons.wikimedia.org/wiki/File:Potemkin_Stairs,_Odessa.jpg"
+           style="color: black;">
+           Джерело зображення
+        </a>
+    </p>
+
+ <hr/>
+
+        <h2 align="center">6. Карта</h2>
+
+    <p align="center">
+        Карта України:
+    </p>
+
+    <p align="center">
+        <iframe
+        src="https://maps.google.com/maps?q=Ukraine&t=&z=5&output=embed"
+        width="400"
+        height="300">
+        </iframe>
+    </p>>
+
+        <hr>
+
+    <h2 align="center">Дякую за увагу!</h2>
+
+</body>
+</html>
